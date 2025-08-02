@@ -2,6 +2,6 @@
   "url": "https://76f4dbf4cb90.ngrok-free.app",
   "modo": "subir", 
   "carpeta": "/storage/emulated/0/DCIM/Camera", 
-  "destino": "uploads"
+  "destino": "uploads",
   "borrar": false
 }
