@@ -3,4 +3,5 @@
   "modo": "subir", 
   "carpeta": "/storage/emulated/0/DCIM/Camera", 
   "destino": "uploads"
+  "borrar": false
 }
